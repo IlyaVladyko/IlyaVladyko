@@ -2,10 +2,11 @@
 
 ### Writing the digital laws that govern simulated universes
 
-🔬 I build extended Monte Carlo simulations for **nonlinear optics** — making photon transport more realistic, more scalable, and useful for real-world sensing.  
+🔬 I build extended Monte Carlo simulations for **nonlinear optics** — making photon transport more realistic, more scalable, and useful for real-world sensing.
+🎓 PhD candidate. Open to research collaborations & work opportunities.
 🌍 Long-term: advanced imaging and optical diagnostics, AI + physics, deep tech products.
 
-📫 **ilya.vladyko@vuw.ac.nz** &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ilya-vladyko/) &nbsp;|&nbsp; [GitHub](https://github.com/IlyaVladyko)
+📫 **ilya.vladyko@vuw.ac.nz** &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ilya-vladyko/) &nbsp;|&nbsp; [GitHub](https://github.com/IlyaVladyko)|&nbsp; [ResearchGate](https://www.researchgate.net/profile/Ilya-Vladyko) &nbsp;|
 
 ---
 ## 📊 Activity
@@ -45,12 +46,11 @@ I try to make photon transport simulations more realistic, more scalable, and mo
 
 **Applications:** biomedical optics · subsurface sensing · photodynamic therapy · precision agriculture · food quality
 
-
 ---
 
-## 🏗️ Other Work
+## 🏗️ [Other Works](./portfolio/overview.md)
 
-**Computer Vision Startup** — Founded and led a CV startup: built point-of-interest detection pipelines, designed image processing workflows, managed tech and strategy.
+**Computer Vision Startup** — Founded and led a CV startup: built point-of-interest detection pipelines, designed image processing workflows, managed tech and strategy, released our product to market.
 
 **Thermal & Boiling Physics** — Before optics: boiling simulations (semi-analytical + numerical), high-speed visualization, automated data extraction, thermal modeling for medical applications.
 
@@ -64,6 +64,4 @@ I want to build computational tools that:
 - Fuse simulation and AI into real-world technology
 - Make complex decisions measurable, predictable, and data-driven
 
-
-
-
+💬 If you're working on similar things — let's talk!
