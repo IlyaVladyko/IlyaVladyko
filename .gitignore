@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.python-version
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Data artifacts 
+# data/
+# outputs/
+# results/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Coverage / testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# OS / sync noise
+*.icloud
