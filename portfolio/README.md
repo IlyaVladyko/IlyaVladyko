@@ -55,7 +55,7 @@ The result is a practical nonlinear optical simulation workflow built on top of 
   <em>Photon fluence render for different scattering coefficient.</em>
 </p>
 
-For me, the most important outcome is that this work moved the model closer to being a real design tool rather than just a numerical exercise. [It](https://github.com/IlyaVladyko/NMC/NMC-samples) can already be used to ask questions that matter for sensing and diagnostics:
+For me, the most important outcome is that this work moved the model closer to being a real design tool rather than just a numerical exercise. [It](https://github.com/IlyaVladyko/NMC/tree/master/NMC-samples) can already be used to ask questions that matter for sensing and diagnostics:
 
 - where does the detected Raman signal actually originate?
 - what detection geometry is likely to be more effective before going into the lab?
@@ -163,7 +163,7 @@ By the end of the study the system could also **track dry spot formation and evo
 
 <p align="center">
   <img src="./02-computer-vision/spray_setup.png" width="40%">
-  <img src="./02-computer-vision/ir_spray.gif" width="60%">
+  <img src="./02-computer-vision/ir_spray.gif" width="48%">
 </p>
 
 <p align="center">
