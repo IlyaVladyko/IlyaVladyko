@@ -48,7 +48,7 @@ I try to make photon transport simulations more realistic, more scalable, and mo
 
 ---
 
-## 🏗️ [Other Works](./portfolio/README.md)
+## 🏗️ Other Works
 
 **Computer Vision Startup** — Founded and led a CV startup: built point-of-interest detection pipelines, designed image processing workflows, managed tech and strategy, released our product to market.
 
