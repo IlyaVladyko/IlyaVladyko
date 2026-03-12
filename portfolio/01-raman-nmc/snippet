@@ -1,0 +1,35 @@
+```cpp
+// spontaneous Raman event
+if (RandomNum < P_Raman) {
+    photon.type = RAMAN;
+
+    float theta = PI * RandomNum;
+    float phi   = 2.0f * PI * RandomNum;
+
+    photon.direction = isotropic_scattering(theta, phi);
+}
+
+// stimulated Raman interaction
+if (photon.type != RAMAN) {
+    for (neighbor : nearby_photons) {
+
+        if (neighbor.type == RAMAN &&
+            distance(photon, neighbor) < interaction_distance)
+        {
+            if (RandomNum < stim_prob) {
+                photon.type = RAMAN;
+                photon.direction = neighbor.direction;
+                break;
+            }
+        }
+    }
+}
+
+// elastic scattering and absorbtion
+if (photon.type != RAMAN && RandomNum < P_Elastic) {
+    updatePhotonDirection(photon); // scattering with a given phase function
+}
+updatePhotonPosition(photon);
+
+photon.absorb = photon.W * (1.0 - exp(-vdt / r_a));
+photon.W -= photon.absorb;

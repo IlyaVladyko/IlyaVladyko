@@ -48,11 +48,15 @@ I try to make photon transport simulations more realistic, more scalable, and mo
 
 ---
 
-## 🏗️ [Other Works](./portfolio/overview.md)
+## 🏗️ [Other Works](./portfolio/README.md)
 
 **Computer Vision Startup** — Founded and led a CV startup: built point-of-interest detection pipelines, designed image processing workflows, managed tech and strategy, released our product to market.
 
 **Thermal & Boiling Physics** — Before optics: boiling simulations (semi-analytical + numerical), high-speed visualization, automated data extraction, thermal modeling for medical applications.
+
+
+Please refer to the following [link](./portfolio/README.md) for more details. 
+> Note: Some implementations in this repository are simplified or illustrative versions of code used in projects.
 
 ---
 
